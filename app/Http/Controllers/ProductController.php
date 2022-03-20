@@ -8,7 +8,7 @@ class ProductController extends Controller
 {
     function index()
     {
-        return "Welcome hola";
+        return "Welcome hola ola";
 //        return redirect ('/');
     }
 }
